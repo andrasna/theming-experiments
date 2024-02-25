@@ -1,0 +1,9 @@
+@import "./dark.css";
+@import "./spring.css";
+@import "./summer.css";
+
+html {
+  /* Constant colors */
+  --c-white: white;
+  --c-black: black;
+}

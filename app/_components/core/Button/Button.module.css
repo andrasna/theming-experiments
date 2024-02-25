@@ -1,4 +1,64 @@
 .shared {
   border: none;
+  padding: 1em;
+  background: transparent;
+  border-width: 1px;
+  border-style: solid;
+  font-weight: bold;
 }
 
+/* Variant */
+
+.solid-alfa {
+  color: var(--c-white);
+  background-color: var(--c-alfa-50);
+  border-color: var(--c-alfa-50);
+
+  &:hover {
+    background-color: var(--c-alfa-30);
+  }
+}
+
+.solid-bravo {
+  color: var(--c-white);
+  background-color: var(--c-bravo-50);
+  border-color: var(--c-bravo-50);
+
+  &:hover {
+    background-color: var(--c-bravo-30);
+  }
+}
+
+.solid-charlie {
+  color: var(--c-white);
+  background-color: var(--c-charlie-50);
+  border-color: var(--c-charlie-50);
+
+  &:hover {
+    background-color: var(--c-bravo-30);
+  }
+}
+
+.outline-alfa {
+  color: var(--c-alfa-50);
+  border-color: var(--c-alfa-50);
+
+  &:hover {
+    color: var(--c-alfa-30);
+    border-color: var(--c-alfa-30);
+  }
+}
+
+/* Size */
+
+.sm {
+  font-size: .875em;
+}
+
+.md {
+  font-size: 1em;
+}
+
+.lg {
+  font-size: 1.2em;
+}

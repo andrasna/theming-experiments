@@ -1,0 +1,11 @@
+.shared {
+  border: none;
+}
+
+.alfa {
+  color: var(--c-heading-alfa);
+}
+
+.bravo {
+  color: var(--c-heading-bravo);
+}

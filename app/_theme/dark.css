@@ -1,0 +1,17 @@
+html.theme-dark {
+  --c-alfa-base: 58, 95%;
+  --c-bravo-base: 0, 0%;
+  --c-charlie-base: 74, 64%;
+
+  --c-alfa-50: hsl(var(--c-alfa-base), 50%);
+  --c-alfa-70: hsl(var(--c-alfa-base), 70%);
+  --c-alfa-30: hsl(var(--c-alfa-base), 30%);
+
+  --c-bravo-50: hsl(var(--c-bravo-base), 50%);
+  --c-bravo-70: hsl(var(--c-bravo-base), 70%);
+  --c-bravo-30: hsl(var(--c-bravo-base), 30%);
+
+  --c-charlie-50: hsl(var(--c-charlie-base), 50%);
+  --c-charlie-70: hsl(var(--c-charlie-base), 70%);
+  --c-charlie-30: hsl(var(--c-charlie-base), 30%);
+}
