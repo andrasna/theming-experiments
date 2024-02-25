@@ -12,3 +12,5 @@
 - **Spectrum, Adobe’s design system**  
   [spectrum.adobe.com](https://spectrum.adobe.com/)
 
+- **Naming colors in design systems**  
+  [adobe.design](https://adobe.design/stories/design-for-scale/naming-colors-in-design-systems)
